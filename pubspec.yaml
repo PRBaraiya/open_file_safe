@@ -7,7 +7,6 @@ homepage: https://github.com/arkatech-ir/open_file_safe
 dependencies:
   flutter:
     sdk: flutter
-  ffi: ^1.0.0
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
